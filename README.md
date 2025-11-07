@@ -1,2 +1,3 @@
 # patrickmagno.github.io
-my website portfolio
+paste in here the LLM response on creating a readme.md file for my portfolio using my CV.
+always use in markdown format
